@@ -3,7 +3,7 @@
   "dish_name": "onion soup",
   "ingredients": ["onion", "chicken", "pepper", "salt", "chili"],
   "taste": "savory",
-  "reviews": "Warm and comforting; perfect for a chilly day.",
+  "reviews": "A warm and comforting soup, perfect for a chilly day.",
   "cuisine_type": "comfort food",
   "preparation_time": 30
 }
